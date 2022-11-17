@@ -1,0 +1,27 @@
+.Heading_big {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: #bf4d00; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.SubHeading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #fb9220; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.HeadingRight {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #a22200; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.BodyText {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
+.number {
+	FONT-WEIGHT: normal; FONT-SIZE: 10px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.Black_Heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.White_Heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+.highlight {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #000000; FONT-STYLE: normal; FONT-FAMILY: Arial, Helvetica, sans-serif; TEXT-ALIGN: justify
+}
